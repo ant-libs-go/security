@@ -15,7 +15,7 @@ import (
 )
 
 func TestEncode(t *testing.T) {
-	key := "8dssword10.2014%"
+	key := "8dssword99.2020%"
 	rawStr := "abcdefg"
 
 	mgr := New(key)
